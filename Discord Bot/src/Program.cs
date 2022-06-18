@@ -59,6 +59,4 @@ public class Program
             return Task.CompletedTask;
         }
     }
-
-    //    public override async Task SetStatusAsync(UserStatus Invisible);
 }
